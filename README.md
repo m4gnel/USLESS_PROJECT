@@ -1,6 +1,5 @@
+<img width="3188" height="1202" alt="image" src="https://github.com/user-attachments/assets/c16a30aa-1bc2-468b-b152-189e286b7c10" />
 
-# useless project
-<img width="3188" height="1202" alt="image" src="https://github.com/user-attachments/assets          /2f7314d5-b2db-4ab3-80a2-c3db35499152" />
 LAZY TERMINAL
 Basic Details
 
