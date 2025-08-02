@@ -61,8 +61,12 @@ For Software:
 Screenshots (Add at least 3)
 
 ![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f526d57-8a30-4c7a-9327-702384b9160b" />
+
 
 ![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/423b5586-675d-4dc2-91f7-6ccf567adf60" />
+
 
 ![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
 Diagrams
