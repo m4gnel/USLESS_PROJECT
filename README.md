@@ -7,10 +7,12 @@ It’s a fake version of VS Code — a fun project that looks like a real code e
 It just pretends to work and gives funny lazy replies.
 
 Team Name: ADHOLOKAM
+
 Team Members:- 
 
-  *  Member 1:  - MAGNEL OLIVERO - ADI SHANKARA INSTITUTE OF ENGINEERING AND TECHNOLOGY**
-    Member 2:  - VIKHNESWAR S - ADI SHANKARA INSTITUTE OF ENGINEERING AND TECHNOLOGY
+   Member 1:  - MAGNEL OLIVERO - ADI SHANKARA INSTITUTE OF ENGINEERING AND TECHNOLOGY
+   
+   Member 2:  - VIKHNESWAR S - ADI SHANKARA INSTITUTE OF ENGINEERING AND TECHNOLOGY
 
 Project Description
 
@@ -18,10 +20,13 @@ Lazy Terminal is a web-based parody of the popular Visual Studio Code editor. De
 It includes a mock terminal that responds with humorous, lazy messages instead of real outputs, mimicking the behavior of a terminal that's "too tired" to work. The editor also features a language selector, menu bar, fake debugging, resizable terminal, and file operations (like open/save), all built using standard web technologies.
 This project is a playful take on modern developer tools and is ideal for showcasing front-end skills, building UI/UX creativity, and adding humor to hackathons or tech portfolios.
 
-The Problem (Coding is hard. Terminals are scary. Developers are tired.
-So, why bother writing real code at all?)
+The Problem 
+Coding is hard. Terminals are scary. Developers are tired.
+So, why bother writing real code at all?
 
-The Solution (Lazy Terminal a completely unproductive code editor simulator that mimics Visual Studio Code’s look... with absolutely no intention of compiling or executing real code.)
+The Solution 
+
+Lazy Terminal a completely unproductive code editor simulator that mimics Visual Studio Code’s look... with absolutely no intention of compiling or executing real code.
 
 I made a fake version of VS Code that looks real but doesn’t do anything serious.
 It has a terminal that gives lazy and funny responses instead of actually running code.
