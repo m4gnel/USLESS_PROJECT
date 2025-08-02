@@ -83,7 +83,7 @@ Diagrams
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dde447d-e383-45ae-a051-30806feb8662" />
 
 
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+Our Architecture Diagram
 
 +-------------------+        +------------------+        +--------------------+
 |                   |        |                  |        |                    |
@@ -117,9 +117,9 @@ Input Devices: USB keyboard/mouse
 
 Host: Raspberry Pi or any PC running a browser
 
-[Add your demo video link here] Explain what the video demonstrates
-Additional Demos
+The video demonstrates
 
+https://raw.githubusercontent.com/m4gnel/USLESS_PROJECT/refs/heads/main/video/index.html%20-%20vscode-bash-clone%20-%20Visual%20Studio%20Code%202025-08-02%2007-05-28.mp4
 
 
 [Add any extra demo materials/links]
