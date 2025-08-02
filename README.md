@@ -85,6 +85,26 @@ Diagrams
 
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
 
++-------------------+        +------------------+        +--------------------+
+|                   |        |                  |        |                    |
+|    Sensors        +------->|  Microcontroller +------->|    Actuators/LEDs  |
+|  (Input Devices)  |        |  / Processing    |        |  (Output Devices)   |
+|                   |        |                  |        |                    |
++-------------------+        +------------------+        +--------------------+
+                                     |
+                                     |
+                              +--------------+
+                              | Communication|
+                              |   Module     |
+                              +--------------+
+                                     |
+                                     v
+                             +-----------------+
+                             | User Interface  |
+                             |  (Mobile/Web)   |
+                             +-----------------+
+
+
 For Hardware:
 Schematic & Circuit
 
@@ -97,29 +117,17 @@ Input Devices: USB keyboard/mouse
 
 Host: Raspberry Pi or any PC running a browser
 
-![Circuit](Add your circuit diagram here) Add caption explaining connections
-
-![Schematic](Add your schematic diagram here) Add caption explaining the schematic
-Build Photos
-
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
-Project Demo
-Video
-
 [Add your demo video link here] Explain what the video demonstrates
 Additional Demos
 
+
+
 [Add any extra demo materials/links]
 Team Contributions
-
-    [Name 1]: [Specific contributions]
-    [Name 2]: [Specific contributions]
-    [Name 3]: [Specific contributions]
-
+MAGNEL OLIVERO : INTERFACE CREATION
+VIKNESWAR S    : ANIMATION (made the site attractive)
+MAGNEL OLIVERO : TERMINAL CREATION 
+VIKNESHWAR S   : PRESENTING
 Made with ❤️ at TinkerHub Useless Projects
 
 Static Badge Static Badge
