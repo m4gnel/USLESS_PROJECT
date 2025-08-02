@@ -47,7 +47,7 @@ Tools required: Web browser (Chrome, Firefox, etc.)
 Implementation
 
 For Software:
-
+Need to run HTML, CSS, JS 
 No installation needed! Just download and open the file.
 
 [commands]
@@ -55,26 +55,47 @@ Double click on index.html or right-click and open with your browser.
 
 [commands]
 Project Documentation
+1. Download in the project folder
+2. Open the folder
+3. Double-click on `index.html`, `style.css`, `script.js` or open it in your browser
+
 
 For Software:
 
-Screenshots (Add at least 3)
+Screenshots of index.html
 
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/998e125a-95c0-4854-b43e-a380f2a50a27" />
+
+
+
+Screenshot1 of the project this shows a sample how the terminal works
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f526d57-8a30-4c7a-9327-702384b9160b" />
 
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+
+
+Screenshot2 of the project this shows how it works in python
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/423b5586-675d-4dc2-91f7-6ccf567adf60" />
 
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+Screenshot3 of the project this shows how it works in sql
 Diagrams
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dde447d-e383-45ae-a051-30806feb8662" />
+
 
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
 
 For Hardware:
 Schematic & Circuit
+
+This project is purely front-end and does not involve any hardware components or electronic circuits.However, if integrated into a hardware setup. 
+The schematic would involve:
+
+Display Output: HDMI or LCD screen
+
+Input Devices: USB keyboard/mouse
+
+Host: Raspberry Pi or any PC running a browser
 
 ![Circuit](Add your circuit diagram here) Add caption explaining connections
 
